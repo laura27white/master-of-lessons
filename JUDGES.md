@@ -15,7 +15,7 @@
 ## How to Access the Demo
 
 ### Option 1: Live Deployment (Recommended)
-**🔗 Demo URL**: [To be provided - deployed on Netlify]
+**🔗 Demo URL**: https://masteroflessons.netlify.app/
 
 Simply visit the URL in any modern web browser to explore the full application with real MOD Gateway Review data.
 
@@ -24,7 +24,7 @@ If you prefer to run the application locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/antnewman/master-of-lessons.git
+git clone https://github.com/laura27white/master-of-lessons
 cd master-of-lessons
 
 # Install dependencies
@@ -469,8 +469,8 @@ We've transformed the challenge of "lessons learned getting lost" into an engagi
 
 ## Contact & Links
 
-- **GitHub Repository**: https://github.com/antnewman/master-of-lessons
-- **Live Demo**: [To be provided - Netlify URL]
+- **GitHub Repository**: https://github.com/laura27white/master-of-lessons
+- **Live Demo**: https://masteroflessons.netlify.app/
 - **Documentation**: See README.md for setup instructions
 
 ---
