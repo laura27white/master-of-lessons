@@ -35,7 +35,7 @@ This tool serves two main use cases:
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/antnewman/master-of-lessons.git
+git clone https://github.com/laura27white/master-of-lessons
 cd master-of-lessons
 ```
 
@@ -307,7 +307,7 @@ Contributions welcome! Areas for improvement:
 
 ## Support & Documentation
 
-- **Issues**: Report bugs at [GitHub Issues](https://github.com/antnewman/master-of-lessons/issues)
+- **Issues**: Report bugs at [GitHub Issues]([https://github.com/laura27white/master-of-lessons])
 - **Documentation**: See [DEPLOYMENT.md](./DEPLOYMENT.md) for deployment details
 - **Judges**: See [JUDGES.md](./JUDGES.md) for hackathon submission details
 
