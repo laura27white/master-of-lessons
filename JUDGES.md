@@ -24,7 +24,7 @@ If you prefer to run the application locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/laura27white/master-of-lessons
+git clone https://github.com/laura27white/master-of-lessons.git
 cd master-of-lessons
 
 # Install dependencies
@@ -140,6 +140,89 @@ npm run dev
 - ✅ **Categorisation**: Each lesson tagged with appropriate theme
 - ✅ **Automated Recommendations**: Radar charts highlight specific areas needing attention
 - ✅ **Insights Discovery**: Multi-dimensional analysis reveals patterns not visible in raw text
+
+---
+
+### 5. 🤖 Whispers from the Past - AI Lessons Agent (Branch 2)
+
+**Navigation**: Click "Whispers" in the header OR click the floating ghost button 👻 (bottom-right on any page)
+
+**What to look for:**
+- **Conversational AI Interface**: Chat with the "Ghost of Projects Past"
+- **Persona Selection**: Choose your role (PM, Portfolio Lead, Reviewer, or LfE Lead)
+- **Context-Aware Responses**: Agent knows which project you're viewing
+- **Evidence-Based Advice**: Always cites source projects and lessons
+- **Pattern Recognition**: Uses the Six Ghosts framework (Resource, Commercial, Schedule, Governance, Integration, Capability)
+
+**Key Features:**
+
+**1. Role-Specific Guidance**
+Select a persona to get tailored advice:
+- **Project Manager**: Direct, actionable checklists with timelines
+- **Portfolio Lead**: Thematic analysis with frequency statistics
+- **Assurance Reviewer**: Evidence-based review questions
+- **LfE Lead**: Process improvement recommendations
+
+**2. Intelligent Responses**
+The agent provides:
+- Specific lesson citations with project names and DCA ratings
+- Evidence quotes from actual lessons
+- Numbered action steps with priorities
+- Red flags and warning signs to watch for
+- Metallica references for fun 🎸
+
+**3. Context Awareness**
+Navigate to any project detail page, then open the floating chat:
+- Agent automatically knows you're viewing that project
+- Provides project-specific insights
+- Suggests relevant lessons from that project's history
+
+**Try it:**
+
+**Demo Flow 1 - Project Manager**
+1. Click "Whispers" in navigation
+2. Select "Project Manager" persona
+3. Click suggested question: "I'm starting a cyber programme with international partners. What lessons apply?"
+4. Observe: Actionable checklist with specific project citations
+5. Follow-up: "What about commercial risks?"
+6. Notice: Agent remembers context and builds on previous answer
+
+**Demo Flow 2 - Context Awareness**
+1. Navigate to any project detail page (e.g., PROJ-002)
+2. Click floating ghost button 👻 (bottom-right)
+3. Type: "Tell me about this project"
+4. Observe: Agent knows you're viewing that specific project
+5. Ask: "What ghosts haunt this project most?"
+6. Notice: Agent analyzes that project's lessons and provides ghost severity
+
+**Demo Flow 3 - Portfolio Analysis**
+1. Open agent page
+2. Select "Portfolio Lead" persona
+3. Ask: "What are the most common governance issues across our portfolio?"
+4. Observe: Frequency analysis, comparative table, portfolio-level recommendations
+5. Compare to PM response style - note different format and depth
+
+**Example Questions to Try:**
+- "Why do projects struggle with SQEP resources?"
+- "Give me a checklist for managing procurement delays"
+- "Which project had the best lessons learned practice?"
+- "Show me trend analysis of ignored lessons"
+- "What patterns does the Ghost Radar reveal?"
+
+**Judging Criteria Addressed:**
+- ✅ **Automated Recommendations**: AI-powered, role-specific guidance
+- ✅ **Intelligence**: Natural language understanding with context memory
+- ✅ **Evidence-Based**: Always cites sources from real lessons
+- ✅ **Actionable**: Provides specific steps, not just information
+- ✅ **Adaptive**: Changes response style based on user role
+- ✅ **Accessible**: Conversational interface, no technical knowledge needed
+
+**Technical Innovation:**
+- **Claude Sonnet 4.5 API**: Latest AI model for natural language understanding
+- **2000+ word system prompt**: Defines Ghost persona, Six Ghosts framework, and response formats
+- **Context layering**: Combines lesson database + current project + user role
+- **Conversation memory**: Maintains context across multiple questions
+- **Fallback handling**: Graceful degradation when API unavailable
 
 ---
 
@@ -476,5 +559,7 @@ We've transformed the challenge of "lessons learned getting lost" into an engagi
 ---
 
 *"Gimme Fuel Gimme Fire Give Me That Lesson I Desire"* 🎸🐱🌿
+
+**Thank you for reviewing our submission!**
 
 **Thank you for reviewing our submission!**
